@@ -4,7 +4,7 @@
   description: "A texture synthesis method for 3D human mesh that incorporates sampling and refinement process by utilizing geometry information"
   project_page: "https://chacorp.github.io/sample-refine.github.io/"
   # arxiv: 2104.08418
-  image: sample-refine.jpg
+  image: sample-refine.png
   # image_mouseover: fignerf_after.mp4
   authors:
     - Sihun
@@ -48,7 +48,7 @@
   description: "A two-player conversational defense game that uses voice conversation as an input"
   project_page: "https://dl.acm.org/doi/abs/10.1145/3450337.3483509"
   # arxiv: 2104.08418
-  image: anyway.jpg
+  image: anyway.png
   # image_mouseover: fignerf_after.mp4
   authors:
     - Minki
