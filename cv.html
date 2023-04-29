@@ -138,7 +138,9 @@ layout: null
         {% for exhibit in site.data.exhibition %}
         <div class="columns">
           <div class="column is-three-fifths">
-            <b>{{ exhibit.name }}</b><br />
+            <b>{{ exhibit.name }}</b>
+            <!-- <a href="{{ exhibit.project_page }}"><b>{{ exhibit.name }}</b></a> -->
+            <br />
             {{ exhibit.location }}
           </div>
           <div class="column is-two-fifths has-text-right">
