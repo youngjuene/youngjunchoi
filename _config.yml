@@ -23,9 +23,10 @@ name: Sihun Cha
 position: PhD student
 email: chacorp@kaist.ac.kr
 description: >-
-  I am a PhD student at [Visual Media Lab, KAIST](https://vml.kaist.ac.kr/), where I study on topics of generating Digital Human.
-
-  I am advised by Prof. [Junyong Noh](https://vml.kaist.ac.kr/main/people/person/1).
+  I am a Ph.D. student at [Visual Media Lab](https://vml.kaist.ac.kr/), KAIST, 
+  where I am advised by Prof. [Junyong Noh](https://vml.kaist.ac.kr/main/people/person/1).
+  
+  I study on topics of generating Digital Human based on triangle mesh and UV representation.
 
 baseurl: "https://sihuncha.tumblr.com/" # the subpath of your site, e.g. /blog
 url: "https://chacorp.github.io/sihuncha/" # the base hostname & protocol for your site, e.g. http://example.com
