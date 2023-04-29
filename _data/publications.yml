@@ -1,11 +1,9 @@
 - id: Sample-Refine
   title: "Generating 3D Human Texture from a Single Image with Sampling and Refinement Networks"
   venue: SIGGRAPH 2022 Posters
-  description: "A texture synthesis method for 3D human mesh that incorporates sampling and refinement process by utilizing geometry information"
+  description: "A texture synthesis method for 3D human mesh that inorporates sampling and refinement process by utilizing geometry information."
   project_page: "https://chacorp.github.io/sample-refine.github.io/"
-  # arxiv: 2104.08418
   image: sample-refine.png
-  # image_mouseover: fignerf_after.mp4
   authors:
     - Sihun
     - Kwanggyoon
@@ -18,9 +16,7 @@
   description: "A model that extracts a sketch from a colorized image in such a way that the extracted sketch has a line style similar to a given reference sketch while preserving the visual content identically to the colorized image."
   project_page: "https://dl.acm.org/doi/abs/10.1145/3550454.3555504"
   github: https://github.com/ref2sketch/ref2sketch
-  # arxiv: 2106.13228
   image: ref2sketch.jpg
-  # image_mouseover: hypernerf_after.mp4
   authors:
     - Amirsaman
     - Chang Wook
@@ -31,11 +27,9 @@
 - id: Samp-Ref
   title: "Generating 3D Human Texture from a Single Image with Sampling and Refinement"
   venue: SIGGRAPH 2022 Posters
-  description: "A method that incorporates sampling and refinement process to produce UV texture map for 3D human mesh"
+  description: "A method that incorporates sampling and refinement process to produce UV texture map for 3D human mesh."
   project_page: "https://dl.acm.org/doi/abs/10.1145/3532719.3543204"
-  # arxiv: 2104.08418
   image: samp-ref.jpg
-  # image_mouseover: fignerf_after.mp4
   authors:
     - Sihun
     - Kwanggyoon
@@ -45,11 +39,9 @@
 - id: Anyway
   title: "“Anyway,”: Two-player Defense Game via Voice Conversation"
   venue: CHI Play 2021
-  description: "A two-player conversational defense game that uses voice conversation as an input"
+  description: "A two-player conversational defense game that uses voice conversation as an input."
   project_page: "https://dl.acm.org/doi/abs/10.1145/3450337.3483509"
-  # arxiv: 2104.08418
   image: anyway.png
-  # image_mouseover: fignerf_after.mp4
   authors:
     - Minki
     - YoungJun
