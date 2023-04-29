@@ -1,6 +1,6 @@
 - id: Sample-Refine
   title: "Generating 3D Human Texture from a Single Image with Sampling and Refinement Networks"
-  venue: SIGGRAPH 2022 Posters
+  venue: Eurographics 2023
   description: "A texture synthesis method for 3D human mesh that inorporates sampling and refinement process by utilizing geometry information."
   project_page: "https://chacorp.github.io/sample-refine.github.io/"
   image: sample-refine.png
