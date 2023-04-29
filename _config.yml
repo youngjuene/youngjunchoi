@@ -18,22 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Keunhong Park
-name: Keunhong Park
-position: Research Scientist 
-email: t4a0itmqm@mozmail.com
+title: Sihun Cha
+name: Sihun Cha
+position: PhD student
+email: chacorp@kaist.ac.kr
 description: >-
-  I am a research scientist at [Google](https://ai.google/research/), where I work on photorealistic 3D reconstruction at internet scale.
+  I am a PhD student at [Visual Media Lab, KAIST](https://vml.kaist.ac.kr/), where I study on topics of generating Digital Human.
 
+  I am advised by Prof. [Junyong Noh](https://vml.kaist.ac.kr/main/people/person/1).
 
-  Previously, I was a Ph. D student at the [University of Washington](https://grail.cs.washington.edu/) advised by
-  [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
-  [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://keunhong.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: KeunhongP
-github_username: keunhong
-google_scholar: HVZb-5oAAAAJ
+baseurl: "https://sihuncha.tumblr.com/" # the subpath of your site, e.g. /blog
+url: "https://chacorp.github.io/sihuncha/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: ""
+github_username: chacorp
+google_scholar: gwSV7H4AAAAJ
 google_analytics: G-MFWSBLRKG0
 
 # Build settings
