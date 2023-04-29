@@ -53,12 +53,12 @@ layout: null
               {{ url_parts[1] }}
             </a>
           </p>
-          <p>
+          <!-- <p>
             <a href="https://github.com/{{ site.github_username }}">
               <i class="fab fa-github"></i>
               {{ site.github_username }}
             </a>
-          </p>
+          </p> -->
           <!-- <p>
             <a href="https://twitter.com/{{ site.twitter_username }}">
               <i class="fab fa-twitter"></i>
@@ -75,6 +75,7 @@ layout: null
       </div>
 
       <div class="content">
+
         <h2>Education</h2>
         {% for school in site.data.education %}
         <div class="columns">
@@ -131,6 +132,23 @@ layout: null
           </div>
         </div>
         {% endfor %}
+
+        
+        <h2>Exhibition</h2>
+        {% for exhibit in site.data.exhibition %}
+        <div class="columns">
+          <div class="column is-three-fifths">
+            <b>{{ exhibit.name }}</b><br />
+            {{ exhibit.location }}
+          </div>
+          <div class="column is-two-fifths has-text-right">
+            {{ exhibit.dates }}
+          </div>
+        </div>
+        {% endfor %}
+
+
+
       </div>
     </div>
   </section>
