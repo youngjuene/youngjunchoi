@@ -1,6 +1,6 @@
-# keunhong.github.io
+# Youngjun Choi 
 
-- Feel free to borrow this template.
+- Feel free to borrow this template. [source](https://github.com/keunhong/keunhong.github.io)
 - Make sure to update all relevant fields in `_config.yml` and `_data`.
 
 # License
