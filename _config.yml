@@ -33,7 +33,7 @@ url: "https://chacorp.github.io/sihuncha/" # the base hostname & protocol for yo
 twitter_username: ""
 github_username: chacorp
 google_scholar: gwSV7H4AAAAJ
-google_analytics: G-MFWSBLRKG0
+# google_analytics: G-MFWSBLRKG0
 
 # Build settings
 theme: minima
