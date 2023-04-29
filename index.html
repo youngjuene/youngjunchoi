@@ -24,14 +24,14 @@ layout: null
   </script>
 
   <link href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@700&family=Noto+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link href="{{ '/css/fontawesome.all.min.css' | relative_url }}" rel="stylesheet">
+  <link href="./css/fontawesome.all.min.css" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" rel="stylesheet">
-  <link href="{{ '/css/bulma.min.css' | relative_url }}" rel="stylesheet">
-  <link href="{{ '/css/index.css' | relative_url }}" rel="stylesheet">
+  <link href="./css/bulma.min.css" rel="stylesheet">
+  <link href="./css/index.css" rel="stylesheet">
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-  <script defer src="{{ '/js/fontawesome.all.min.js' | relative_url }}"></script>
-  <script src="{{ '/js/index.js' | relative_url }}"></script>
+  <script defer src="./js/fontawesome.all.min.js"></script>
+  <script src="./js/index.js'"></script>
 </head>
 
 <body>
@@ -41,44 +41,46 @@ layout: null
       <div class="columns is-vcentered">
 
         <div class="column is-4">
-        </div>
-        
-        <div class="column">
           <div class="portrait">
             <!-- <img src="./images/sihuncha.jpg" > -->
             <a href="./images/sihuncha.jpg"><img style="width:15%;max-width:15%" alt="profile photo" src="./images/sihuncha.jpg" class="hoverZoomLink"></a>
           </div>
-          <h1 class="title">
-            <b>Hello, I'm Sihun Cha</b>
-          </h1>
-          <div class="content has-text-justified">
-            {{ site.description | markdownify }}
-            <div class="buttons">
-              <a class="external-link button is-normal is-rounded is-dark" href="cv.html">
-                <span class="icon"><i class="fas fa-file"></i></span>
-                <span>CV</span>
-              </a>
 
-              <a class="external-link button is-normal is-rounded is-dark"
-                href="https://scholar.google.com/citations?user={{ site.google_scholar }}">
-                <span class="icon"><i class="ai ai-google-scholar"></i></span>
-                <span>Scholar</span>
-              </a>
+          <div class="column">
+            <h1 class="title">
+              <b>Hello, I'm Sihun Cha</b>
+            </h1>
+            <div class="content has-text-justified">
+              {{ site.description | markdownify }}
 
-              <a class="external-link button is-normal is-rounded is-dark" 
-                href="https://github.com/{{ site.github_username }}">
-                <span class="icon"><i class="fab fa-github"></i></span>
-                <span>Github</span>
-              </a>
+              <div class="buttons">
+                <a class="external-link button is-normal is-rounded is-dark" href="cv.html">
+                  <span class="icon"><i class="fas fa-file"></i></span>
+                  <span>CV</span>
+                </a>
 
-              <!-- <a class="external-link button is-light" href="https://twitter.com/{{ site.twitter_username }}">
-                <span class="icon"><i class="fab fa-twitter"></i></span>
-                <span>Twitter</span>
-              </a> -->
+                <a class="external-link button is-normal is-rounded is-dark"
+                  href="https://scholar.google.com/citations?user={{ site.google_scholar }}">
+                  <span class="icon"><i class="ai ai-google-scholar"></i></span>
+                  <span>Scholar</span>
+                </a>
+
+                <a class="external-link button is-normal is-rounded is-dark" 
+                  href="https://github.com/{{ site.github_username }}">
+                  <span class="icon"><i class="fab fa-github"></i></span>
+                  <span>Github</span>
+                </a>
+
+                <!-- <a class="external-link button is-light" href="https://twitter.com/{{ site.twitter_username }}">
+                  <span class="icon"><i class="fab fa-twitter"></i></span>
+                  <span>Twitter</span>
+                </a> -->
+              </div>
             </div>
-
           </div>
+
         </div>
+
       </div>
     </div>
   </section>
