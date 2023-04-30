@@ -3,6 +3,7 @@
   venue: Eurographics 2023
   description: "A texture synthesis method for 3D human mesh that inorporates sampling and refinement process by utilizing geometry information."
   project_page: "https://chacorp.github.io/sample-refine.github.io/"
+  # paper: ""
   image: sample-refine.png
   authors:
     - Sihun
@@ -14,7 +15,7 @@
   title: "Reference Based Sketch Extraction via Attention Mechanism"
   venue: SIGGRAPH Asia, 2022
   description: "A model that extracts a sketch from a colorized image in such a way that the extracted sketch has a line style similar to a given reference sketch while preserving the visual content identically to the colorized image."
-  project_page: "https://dl.acm.org/doi/abs/10.1145/3550454.3555504"
+  paper: "https://dl.acm.org/doi/abs/10.1145/3550454.3555504"
   github: ref2sketch/ref2sketch
   image: ref2sketch.jpg
   authors:
@@ -28,7 +29,7 @@
   title: "Generating 3D Human Texture from a Single Image with Sampling and Refinement"
   venue: SIGGRAPH 2022 Posters
   description: "A method that incorporates sampling and refinement process to produce UV texture map for 3D human mesh."
-  project_page: "https://dl.acm.org/doi/abs/10.1145/3532719.3543204"
+  paper: "https://dl.acm.org/doi/abs/10.1145/3532719.3543204"
   image: samp-ref.jpg
   authors:
     - Sihun
@@ -40,7 +41,7 @@
   title: "“Anyway,”: Two-player Defense Game via Voice Conversation"
   venue: CHI Play 2021
   description: "A two-player conversational defense game that uses voice conversation as an input."
-  project_page: "https://dl.acm.org/doi/abs/10.1145/3450337.3483509"
+  paper: "https://dl.acm.org/doi/abs/10.1145/3450337.3483509"
   image: anyway.png
   authors:
     - Minki
