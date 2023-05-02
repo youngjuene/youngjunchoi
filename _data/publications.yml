@@ -4,6 +4,7 @@
   description: "A texture synthesis method for 3D human mesh that inorporates sampling and refinement process by utilizing geometry information."
   project_page: "https://chacorp.github.io/sample-refine.github.io/"
   # paper: ""
+  arxiv: "2305.00936"
   image: sample-refine.png
   authors:
     - Sihun
