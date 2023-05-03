@@ -2,7 +2,7 @@
   title: "Generating 3D Human Texture from a Single Image with Sampling and Refinement Networks"
   venue: Eurographics 2023
   description: "A texture synthesis method for 3D human mesh that inorporates sampling and refinement process by utilizing geometry information."
-  project_page: "https://chacorp.github.io/sample-refine.github.io/"
+  project_page: "https://chacorp.github.io/sample-refine/"
   # paper: ""
   arxiv: "2305.00936"
   image: sample-refine.png
