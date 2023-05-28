@@ -29,7 +29,7 @@
 - id: Samp-Ref
   title: "Generating 3D Human Texture from a Single Image with Sampling and Refinement"
   venue: SIGGRAPH 2022 Posters
-  description: "A method for generating 3D human texture from a single image based on SMPL model by using sampling and refinement process."
+  description: "A method for generating 3D human texture from a single image based on SMPL model, using sampling and refinement process."
   paper: "https://dl.acm.org/doi/abs/10.1145/3532719.3543204"
   image: samp-ref.jpg
   authors:
