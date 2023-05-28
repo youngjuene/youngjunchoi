@@ -26,7 +26,7 @@ description: >-
   I am a Ph.D. student at [Visual Media Lab](https://vml.kaist.ac.kr/), KAIST, 
   where I am advised by Prof. [Junyong Noh](https://vml.kaist.ac.kr/main/people/person/1).
   
-  I study on topics of generating Digital Human based on triangle mesh and UV representation.
+  I am interested in generating digital human and humanoid avatars. Also, I am interested in topics of how to intuitively edit or control the generated 3D model.
 
 baseurl: "https://sihuncha.tumblr.com/" # the subpath of your site, e.g. /blog
 url: "https://chacorp.github.io/sihuncha/" # the base hostname & protocol for your site, e.g. http://example.com
