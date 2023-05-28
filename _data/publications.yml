@@ -1,7 +1,7 @@
 - id: Sample-Refine
   title: "Generating 3D Human Texture from a Single Image with Sampling and Refinement Networks"
   venue: Eurographics 2023
-  description: "A texture synthesis method for 3D human mesh that inorporates sampling and refinement process by utilizing geometry information."
+  description: "A method for generating 3D human texture from a single image, which aligns with the target mesh, using sampling and refinement process by utilizing geometry information."
   project_page: "https://chacorp.github.io/sample-refine/"
   paper: "https://diglib.eg.org/handle/10.1111/cgf14769"
   arxiv: "2305.00936"
@@ -29,7 +29,7 @@
 - id: Samp-Ref
   title: "Generating 3D Human Texture from a Single Image with Sampling and Refinement"
   venue: SIGGRAPH 2022 Posters
-  description: "A method that incorporates sampling and refinement process to produce UV texture map for 3D human mesh."
+  description: "A method for generating 3D human texture from a single image based on SMPL model by using sampling and refinement process."
   paper: "https://dl.acm.org/doi/abs/10.1145/3532719.3543204"
   image: samp-ref.jpg
   authors:
