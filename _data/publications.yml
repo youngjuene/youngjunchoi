@@ -4,6 +4,7 @@
   description: "A method for generating 3D human texture from a single image, which aligns with the target mesh, using sampling and refinement process by utilizing geometry information."
   project_page: "https://chacorp.github.io/sample-refine/"
   paper: "https://diglib.eg.org/handle/10.1111/cgf14769"
+  github: "chacorp/SampleRefine"
   arxiv: "2305.00936"
   image: sample-refine.png
   authors:
@@ -31,7 +32,6 @@
   venue: SIGGRAPH 2022 Posters
   description: "A method for generating 3D human texture from a single image based on SMPL model, using sampling and refinement process."
   paper: "https://dl.acm.org/doi/abs/10.1145/3532719.3543204"
-  github: "chacorp/SampleRefine"
   image: samp-ref.jpg
   authors:
     - Sihun
