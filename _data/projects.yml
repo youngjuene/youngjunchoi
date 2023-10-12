@@ -3,18 +3,21 @@
   date: Jun. 2023 ~ Ongoing
   role: Project Manager
   image: kocca.jpg
+  description: "Development of universal fashion creation technology and creative platform that enables general users self-expression through intuitive avatar creation"
 
-- name: A Deep Learning Based Immersive AR Content Creation Platform for Generating Interactive, Context and Geometry Aware Movement from a Single Image
+- name: A Deep Learning Based Immersive AR Content Creation Platform for Generating Interactive, Context, and Geometry Aware Movement from a Single Image
   support: IITP
   date: Jun. 2021 ~ Dec. 2022
   role: Software Engineer
   image: iitp.jpg
+  description: "Development of user-friendly content production technology that enables general users to easily transform a single image into immersive AR content where background and characters within the image move and interact with real-world objects."
 
 - name: Development of self-evolving AI Creation Platform
   support: KOCCA
   date: Jun. 2021 ~ Dec. 2022
   role: Software Engineer
   image: kocca.jpg
+  description: "Development of user-friendly animation creation platform through analysis of user input keywords and images for single creators"
 
 
 
