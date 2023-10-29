@@ -122,7 +122,7 @@ layout: null
       {% for publication in site.data.publications %}
       <div class="publication-block columns">
 
-        <div class="column is-3">
+        <div class="column is-2">
           <!-- <div class="publication-image {% if publication.image_mouseover %}publication-mousecell{% endif %}"> -->
           <div class="publication-image">
             <!-- {% if publication.image_mouseover contains "mp4" %}
@@ -131,7 +131,7 @@ layout: null
               Your browser does not support the video tag.
             </video>
             {% endif %} -->
-            <img alt="{{ publication.title }}" src="./images/{{ publication.image }}" width="300"/>
+            <img alt="{{ publication.title }}" src="./images/{{ publication.image }}" />
           </div>
         </div>
 
