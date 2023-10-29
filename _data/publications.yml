@@ -49,6 +49,7 @@
     - Minki
     - YoungJun
     - Sihun
+  etc: *equal contribution
 
 # - id: nerfies
 #   title: "Nerfies: Deformable Neural Radiance Fields"
