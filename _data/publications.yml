@@ -1,7 +1,7 @@
 - id: Sample-Refine
   title: "Generating 3D Human Texture from a Single Image with Sampling and Refinement Networks"
   venue: Eurographics 2023
-  description: "A method for generating 3D human texture from a single image, which aligns with the target mesh, using sampling and refinement process by utilizing geometry information."
+  description: "A method for generating 3D human texture from a single image using sampling and refinement process by utilizing geometry information."
   project_page: "https://chacorp.github.io/sample-refine/"
   paper: "https://diglib.eg.org/handle/10.1111/cgf14769"
   github: "chacorp/SampleRefine"
