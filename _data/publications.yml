@@ -1,5 +1,5 @@
 - id: Sample-Refine
-  title: "Generating 3D Human Texture from a Single Image with Sampling and Refinement Networks"
+  title: "Generating Texture for 3D Human Avatar from a Single Image using Sampling and Refinement Networks"
   venue: Eurographics 2023, Computer Graphics Forum (CGF)
   description: "A method for generating 3D human texture from a single image using sampling and refinement process by utilizing geometry information."
   project_page: "https://chacorp.github.io/sample-refine/"
