@@ -145,25 +145,7 @@ layout: null
           </div>
         </div>
         {% endfor %}
-
-        <br />
-
-        <h2>Exhibition</h2>
-        {% for exhibit in site.data.exhibition %}
-        <div class="columns">
-          <div class="column is-three-fifths">
-            <b>{{ exhibit.name }}</b>
-            <!-- <a href="{{ exhibit.project_page }}"><b>{{ exhibit.name }}</b></a> -->
-            <br />
-            {{ exhibit.type }}
-            <br />
-            {{ exhibit.location }}
-          </div>
-          <div class="column is-two-fifths has-text-right">
-            {{ exhibit.dates }}
-          </div>
-        </div>
-        {% endfor %}
+        
 
         <br />
 
@@ -183,7 +165,24 @@ layout: null
         </div>
         {% endfor %}
 
+        <br />
 
+        <h2>Exhibition</h2>
+        {% for exhibit in site.data.exhibition %}
+        <div class="columns">
+          <div class="column is-three-fifths">
+            <b>{{ exhibit.name }}</b>
+            <!-- <a href="{{ exhibit.project_page }}"><b>{{ exhibit.name }}</b></a> -->
+            <br />
+            {{ exhibit.type }}
+            <br />
+            {{ exhibit.location }}
+          </div>
+          <div class="column is-two-fifths has-text-right">
+            {{ exhibit.dates }}
+          </div>
+        </div>
+        {% endfor %}
 
       </div>
     </div>
