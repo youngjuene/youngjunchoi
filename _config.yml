@@ -23,10 +23,10 @@ name: Sihun Cha
 position: Ph.D. student
 email: chacorp@kaist.ac.kr
 description: >-
-  I am a Ph.D. student at [Visual Media Lab](https://vml.kaist.ac.kr/), KAIST, supervised by Prof. [Junyong Noh](https://vml.kaist.ac.kr/main/people/person/1). 
+  'How can I intuitively create and manipulate 3D content?' is my overall question. My current focus is on generating and animating digital humans and avatars using generative prior.
   
-
-  I am interested in generating digital human and humanoid avatars which can be directly used in the graphics pipeline. My overall question is about 'how to intuitively generate and edit 3D model'.  
+  I am a Ph.D. student at [Visual Media Lab](https://vml.kaist.ac.kr/), [KAIST](https://www.kaist.ac.kr/en/), advised by Prof. [Junyong Noh](https://vml.kaist.ac.kr/main/people/person/1). 
+  I studied Fine Arts as a Bachelor at [Korea National University of Arts](https://www.karts.ac.kr/en/main.do).
 
 baseurl: "https://sihuncha.tumblr.com/" # the subpath of your site, e.g. /blog
 url: "https://chacorp.github.io/sihuncha/" # the base hostname & protocol for your site, e.g. http://example.com
