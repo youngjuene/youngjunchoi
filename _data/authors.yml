@@ -3,6 +3,7 @@ Sihun:
   last_name: Cha
   website: https://chacorp.github.io/sihuncha/cv.html
   is_me: true
+  
 Kwanggyoon:
   first_name: Kwanggyoon
   last_name: Seo
@@ -27,14 +28,18 @@ Cholmin:
   first_name: Cholmin
   last_name: Kang
   website: https://vml.kaist.ac.kr/main/people/person/141
-YoungJun:
-  first_name: YoungJun
+Inyup:
+  first_name: Inyup
+  last_name: Lee
+  website: https://vml.kaist.ac.kr/main/people/person/185
+Yeonsoo:
+  first_name: Yeonsoo
   last_name: Choi
-  website: 
-Minki:
-  first_name: Minki
-  last_name: Hong
-  website: 
+  website: https://vml.kaist.ac.kr/main/people/person/156
+Kwan:
+  first_name: Kwan
+  last_name: Yun
+  website: https://kwanyun.github.io/
 Soyeon:
   first_name: Soyeon
   last_name: Yoon
@@ -47,3 +52,12 @@ Sunjin:
   first_name: Sunjin
   last_name: Jung
   website: https://vml.kaist.ac.kr/main/people/person/18/
+  
+YoungJun:
+  first_name: YoungJun
+  last_name: Choi
+  website: 
+Minki:
+  first_name: Minki
+  last_name: Hong
+  website: 
