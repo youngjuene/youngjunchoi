@@ -1,6 +1,19 @@
 - id: lego
   title: "LeGO: Leveraging a Surface Deformation Network for Animatable Stylized Face Generation with One Example"
-  venue: Under review
+  venue: In submission
+  description: "A method for retargeting facial expression from a source human performance video to a target stylized 3D character by leveraging local patches."
+  image: localpatch.png
+  authors:
+    - Inyup
+    - Yeonsoo
+    - Sihun
+    - Seonghyeon
+    - Sunjin
+    - Junyong
+    
+- id: lego
+  title: "LeGO: Leveraging a Surface Deformation Network for Animatable Stylized Face Generation with One Example"
+  venue: In submission
   description: "A method for creating an animatable stylized 3D face mesh with one example pair."
   image: lego.png
   authors:
