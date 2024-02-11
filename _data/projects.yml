@@ -1,22 +1,22 @@
 - name: Development of Universal Fashion Creation Platform Technology for Avatar Personality Expression
   support: KOCCA
   date: Jun. 2023 ~ Ongoing
-  role: Developing the AI model for text-guided image to 3d generation
+  role: - Developed the AI model for text-guided image to 3d generation
   image: kocca.jpg
   description: "Development of universal fashion creation technology and creative platform that enables general users self-expression through intuitive avatar creation"
   
 
-- name: A Deep Learning Based Immersive AR Content Creation Platform for Generating Interactive, Context, and Geometry Aware Movement from a Single Image
+- name: 3D Cinemagraph for AR Contents Creation
   support: IITP
   date: Jun. 2021 ~ Dec. 2022
-  role: Developing the AI model for 3D human avatar generation with texture
+  role: - Developed the AI model for 3D human avatar generation with texture
   image: iitp.jpg
   description: "Development of user-friendly content production technology that enables general users to easily transform a single image into immersive AR content where background and characters within the image move and interact with real-world objects."
 
 - name: Development of self-evolving AI Creation Platform
   support: KOCCA
   date: Jun. 2021 ~ Dec. 2022
-  role: Developing the AI model for 3D human pose estimation
+  role: - Developed the AI model for 3D human pose estimation
   image: kocca.jpg
   description: "Development of user-friendly animation creation platform through analysis of user input keywords and images for single creators"
 
