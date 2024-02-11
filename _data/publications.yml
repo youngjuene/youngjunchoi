@@ -1,7 +1,7 @@
 - id: nerffacespeech
   title: "NeRFFaceSpeech: One-shot Audio-diven 3D Talking Head Synthesis via Generative Prior"
   venue: In submission
-  description: "A method for generating audio-driven 3D aware talking head from a single image using generative prior."
+  description: "A method for generating audio-driven 3D aware talking head from a single image using generative prior and ray deformation technique."
   image: nerffacespeech.png
   authors:
     - Gihoon
